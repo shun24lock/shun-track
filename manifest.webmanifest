@@ -1,0 +1,22 @@
+{
+  "name": "SHUN TRACK - Threads運用管理",
+  "short_name": "SHUN TRACK",
+  "description": "投稿・引用・コメントと夜のAI分析を記録",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1420",
+  "theme_color": "#101d2b",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
